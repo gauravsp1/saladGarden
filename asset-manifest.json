@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/saladgarden/static/css/main.5265931a.chunk.css",
+    "main.js": "/saladgarden/static/js/main.82dc4654.chunk.js",
+    "main.js.map": "/saladgarden/static/js/main.82dc4654.chunk.js.map",
+    "runtime-main.js": "/saladgarden/static/js/runtime-main.472ebb52.js",
+    "runtime-main.js.map": "/saladgarden/static/js/runtime-main.472ebb52.js.map",
+    "static/css/2.a08119d7.chunk.css": "/saladgarden/static/css/2.a08119d7.chunk.css",
+    "static/js/2.49da3b18.chunk.js": "/saladgarden/static/js/2.49da3b18.chunk.js",
+    "static/js/2.49da3b18.chunk.js.map": "/saladgarden/static/js/2.49da3b18.chunk.js.map",
+    "index.html": "/saladgarden/index.html",
+    "static/css/2.a08119d7.chunk.css.map": "/saladgarden/static/css/2.a08119d7.chunk.css.map",
+    "static/css/main.5265931a.chunk.css.map": "/saladgarden/static/css/main.5265931a.chunk.css.map",
+    "static/js/2.49da3b18.chunk.js.LICENSE.txt": "/saladgarden/static/js/2.49da3b18.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/saladgarden/static/media/Salad7.f229c9aa.jpg",
+    "static/media/Pune.addcd544.jpg": "/saladgarden/static/media/Pune.addcd544.jpg",
+    "static/media/Salad1.eb3afb62.jpg": "/saladgarden/static/media/Salad1.eb3afb62.jpg",
+    "static/media/Salad2.d87dd9c0.jpg": "/saladgarden/static/media/Salad2.d87dd9c0.jpg",
+    "static/media/Salad3.337913e8.jpg": "/saladgarden/static/media/Salad3.337913e8.jpg",
+    "static/media/Salad4.218f83fe.jpg": "/saladgarden/static/media/Salad4.218f83fe.jpg",
+    "static/media/Salad5.a95bee7c.jpg": "/saladgarden/static/media/Salad5.a95bee7c.jpg",
+    "static/media/Salad6.bb31af36.jpg": "/saladgarden/static/media/Salad6.bb31af36.jpg",
+    "static/media/Salad8.f46577de.jpg": "/saladgarden/static/media/Salad8.f46577de.jpg",
+    "static/media/bangalore.9be8dec2.jpg": "/saladgarden/static/media/bangalore.9be8dec2.jpg",
+    "static/media/customer2.9fdd7ef6.jpg": "/saladgarden/static/media/customer2.9fdd7ef6.jpg",
+    "static/media/delhi.5a819e42.jpg": "/saladgarden/static/media/delhi.5a819e42.jpg",
+    "static/media/mumbai.d7c8f586.jpg": "/saladgarden/static/media/mumbai.d7c8f586.jpg",
+    "static/media/star.ea7dda86.png": "/saladgarden/static/media/star.ea7dda86.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.472ebb52.js",
+    "static/css/2.a08119d7.chunk.css",
+    "static/js/2.49da3b18.chunk.js",
+    "static/css/main.5265931a.chunk.css",
+    "static/js/main.82dc4654.chunk.js"
+  ]
+}
