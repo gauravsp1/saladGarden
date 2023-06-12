@@ -1,4 +1,5 @@
 import customer from "./images/customer.jpg";
+import customer2 from "./images/customer2.jpg";
 
 const customerReviewList = [
   {
@@ -9,7 +10,7 @@ const customerReviewList = [
   },
   {
     content: `"Healthy, great-tasting meals delivered right to my home! Here in Pune, we have lots of food delivery services, but none of them come close to the taste and quality of that Salad-Bar.`,
-    image: customer,
+    image: customer2,
     name: "Sadia Omar",
     key: 2,
   },
