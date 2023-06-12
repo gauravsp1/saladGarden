@@ -1,6 +1,5 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
-import { LazyLoadImage } from "react-lazy-load-image-component";
 
 function MenuImages({ source, name, yCordinate }) {
   const history = useHistory();
@@ -15,7 +14,7 @@ function MenuImages({ source, name, yCordinate }) {
   };
   return (
     <div className="MenuImages" onClick={handleToMenu}>
-      <LazyLoadImage src={source} />
+      <img src={source} alt="Salad" />
       <p className="overlay">
         <em>{name}</em>
       </p>
