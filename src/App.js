@@ -1,4 +1,4 @@
-import { Route, Switch } from "react-router";
+import { Route, Switch, Redirect } from "react-router";
 import { HashRouter as Router } from "react-router-dom";
 import Home from "./Components/Home";
 import Menu from "./Components/Menu";
@@ -15,6 +15,7 @@ function App() {
           <Route exact path="/" component={Home} />
           <Route exact path="/order" component={Order} />
           <Route exact path="/plan" component={PlanPage} />
+          <Redirect to="/" />
         </Switch>
       </Router>
     </>
