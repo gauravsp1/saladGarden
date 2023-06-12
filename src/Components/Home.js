@@ -14,10 +14,6 @@ import "./Home.css";
 import SectionHeader from "./SectionHeader";
 
 function Home() {
-  useEffect(() => {
-    window.scrollTo(0, 0);
-  }, []);
-
   return (
     <>
       <NavBar />
@@ -44,6 +40,7 @@ function Home() {
                 key={item.key}
                 source={item.source}
                 name={item.name}
+                yCordinate={item?.yCordinate}
               />
             );
           })}
@@ -52,9 +49,12 @@ function Home() {
       <SectionHeader heading="OUR CURRENT LOCATIONS">
         <Location />
       </SectionHeader>
+
       <Customer />
-      {/* <Plan /> */}
-      {/* <Contact /> */}
+      <Plan />
+      <SectionHeader heading="CONTACT US">
+        <Contact />
+      </SectionHeader>
       <Footer />
     </>
   );

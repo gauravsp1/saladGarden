@@ -1,14 +1,23 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { useHistory } from "react-router-dom";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 
-function MenuImages(props) {
+function MenuImages({ source, name, yCordinate }) {
+  const history = useHistory();
+
+  const handleToMenu = () => {
+    history.push({
+      pathname: "/menu",
+      state: {
+        yCordinate: yCordinate,
+      },
+    });
+  };
   return (
-    <div className="MenuImages">
-      <NavLink to="/menu">
-        <img src={props.source} />
-      </NavLink>
+    <div className="MenuImages" onClick={handleToMenu}>
+      <LazyLoadImage src={source} />
       <p className="overlay">
-        <em>{props.name}</em>
+        <em>{name}</em>
       </p>
     </div>
   );
