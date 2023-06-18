@@ -13,7 +13,7 @@ function MenuList(props) {
         <h1>
           {props.index}. {props.name}
         </h1>
-        <img src={props.source} />
+        <img src={props.source} loading="lazy" />
         <h4>Ingredients</h4>
         <ul>
           <li>{props.ingredient1}</li>

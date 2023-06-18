@@ -14,7 +14,7 @@ function NavBar() {
   return (
     <>
       <div id="navBar" className="navBar ">
-        <img className="navImg " src={Logo} />
+        <img className="navImg" loading="lazy" src={Logo} />
         <ul className="navList">
           <li className="navItem">
             <NavLink to="/">HOME</NavLink>

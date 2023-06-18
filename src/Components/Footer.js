@@ -15,10 +15,10 @@ function Footer() {
           <span className="footer-nav-item">Android App</span>
         </div>
         <div class="footer-icon">
-          <img className="footer-icon-image" src={fb} />
-          <img className="footer-icon-image" src={instagram} />
-          <img className="footer-icon-image" src={whatsapp} />
-          <img className="footer-icon-image" src={twitter} />
+          <img className="footer-icon-image" loading="lazy" src={fb} />
+          <img className="footer-icon-image" loading="lazy" src={instagram} />
+          <img className="footer-icon-image" loading="lazy" src={whatsapp} />
+          <img className="footer-icon-image" loading="lazy" src={twitter} />
         </div>
       </div>
 

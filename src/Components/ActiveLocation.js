@@ -6,18 +6,18 @@ import instagram from "../images/insta.png";
 function ActiveLocation(props) {
   return (
     <div className="activeLocationItem">
-      <img className="city" src={props.source} />
+      <img className="city" src={props.source} loading="lazy" />
       <h4>{props.title}</h4>
       <p>
-        <img src={person} />
+        <img src={person} loading="lazy" />
         {props.eater}
       </p>
       <p>
-        <img src={star} />
+        <img src={star} loading="lazy" />
         {props.star}
       </p>
       <p>
-        <img src={instagram} />
+        <img src={instagram} loading="lazy" />
         <a href="#">{props.tag}</a>
       </p>
     </div>

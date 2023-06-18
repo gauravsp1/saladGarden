@@ -14,7 +14,7 @@ function MenuImages({ source, name, yCordinate }) {
   };
   return (
     <div className="MenuImages" onClick={handleToMenu}>
-      <img src={source} alt="Salad" />
+      <img src={source} alt="Salad" loading="lazy" />
       <p className="overlay">
         <em>{name}</em>
       </p>
