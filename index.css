@@ -189,7 +189,7 @@ header{
     margin: 0;
     height: 315.8px;
     width: 315.8px;
-    
+    cursor: pointer;
     overflow: hidden;
     background-color: #000;
 }

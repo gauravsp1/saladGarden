@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/saladGarden/static/css/main.e297074b.chunk.css",
+    "main.css": "/saladGarden/static/css/main.1b8ccbc9.chunk.css",
     "main.js": "/saladGarden/static/js/main.bb5846dc.chunk.js",
     "main.js.map": "/saladGarden/static/js/main.bb5846dc.chunk.js.map",
     "runtime-main.js": "/saladGarden/static/js/runtime-main.11194084.js",
@@ -10,7 +10,7 @@
     "static/js/2.15cba140.chunk.js.map": "/saladGarden/static/js/2.15cba140.chunk.js.map",
     "index.html": "/saladGarden/index.html",
     "static/css/2.a08119d7.chunk.css.map": "/saladGarden/static/css/2.a08119d7.chunk.css.map",
-    "static/css/main.e297074b.chunk.css.map": "/saladGarden/static/css/main.e297074b.chunk.css.map",
+    "static/css/main.1b8ccbc9.chunk.css.map": "/saladGarden/static/css/main.1b8ccbc9.chunk.css.map",
     "static/js/2.15cba140.chunk.js.LICENSE.txt": "/saladGarden/static/js/2.15cba140.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/saladGarden/static/media/Salad7.f229c9aa.jpg",
     "static/media/Pune.addcd544.jpg": "/saladGarden/static/media/Pune.addcd544.jpg",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.11194084.js",
     "static/css/2.a08119d7.chunk.css",
     "static/js/2.15cba140.chunk.js",
-    "static/css/main.e297074b.chunk.css",
+    "static/css/main.1b8ccbc9.chunk.css",
     "static/js/main.bb5846dc.chunk.js"
   ]
 }
