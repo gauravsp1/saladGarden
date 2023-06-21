@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/saladGarden/static/css/main.76b8871a.chunk.css",
-    "main.js": "/saladGarden/static/js/main.270fc0a4.chunk.js",
-    "main.js.map": "/saladGarden/static/js/main.270fc0a4.chunk.js.map",
+    "main.css": "/saladGarden/static/css/main.8a8dea73.chunk.css",
+    "main.js": "/saladGarden/static/js/main.8da8e98b.chunk.js",
+    "main.js.map": "/saladGarden/static/js/main.8da8e98b.chunk.js.map",
     "runtime-main.js": "/saladGarden/static/js/runtime-main.11194084.js",
     "runtime-main.js.map": "/saladGarden/static/js/runtime-main.11194084.js.map",
     "static/css/2.a08119d7.chunk.css": "/saladGarden/static/css/2.a08119d7.chunk.css",
@@ -10,17 +10,17 @@
     "static/js/2.15cba140.chunk.js.map": "/saladGarden/static/js/2.15cba140.chunk.js.map",
     "index.html": "/saladGarden/index.html",
     "static/css/2.a08119d7.chunk.css.map": "/saladGarden/static/css/2.a08119d7.chunk.css.map",
-    "static/css/main.76b8871a.chunk.css.map": "/saladGarden/static/css/main.76b8871a.chunk.css.map",
+    "static/css/main.8a8dea73.chunk.css.map": "/saladGarden/static/css/main.8a8dea73.chunk.css.map",
     "static/js/2.15cba140.chunk.js.LICENSE.txt": "/saladGarden/static/js/2.15cba140.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/saladGarden/static/media/Salad7.bfc84453.jpg",
+    "static/media/Home.css": "/saladGarden/static/media/Salad7.e6bf6ea6.jpg",
     "static/media/Pune.74e1f675.jpg": "/saladGarden/static/media/Pune.74e1f675.jpg",
-    "static/media/Salad1.ec36e0bf.jpg": "/saladGarden/static/media/Salad1.ec36e0bf.jpg",
-    "static/media/Salad2.19c36e7c.jpg": "/saladGarden/static/media/Salad2.19c36e7c.jpg",
-    "static/media/Salad3.74d60398.jpg": "/saladGarden/static/media/Salad3.74d60398.jpg",
-    "static/media/Salad4.d3597c82.jpg": "/saladGarden/static/media/Salad4.d3597c82.jpg",
-    "static/media/Salad5.99d6c877.jpg": "/saladGarden/static/media/Salad5.99d6c877.jpg",
-    "static/media/Salad6.bcf8a7fe.jpg": "/saladGarden/static/media/Salad6.bcf8a7fe.jpg",
-    "static/media/Salad8.286044f8.jpg": "/saladGarden/static/media/Salad8.286044f8.jpg",
+    "static/media/Salad1.8cfdd7a1.jpg": "/saladGarden/static/media/Salad1.8cfdd7a1.jpg",
+    "static/media/Salad2.b5ffb5e3.jpg": "/saladGarden/static/media/Salad2.b5ffb5e3.jpg",
+    "static/media/Salad3.7210c10a.jpg": "/saladGarden/static/media/Salad3.7210c10a.jpg",
+    "static/media/Salad4.22037fe9.jpg": "/saladGarden/static/media/Salad4.22037fe9.jpg",
+    "static/media/Salad5.dd2d12a7.jpg": "/saladGarden/static/media/Salad5.dd2d12a7.jpg",
+    "static/media/Salad6.53c4c17e.jpg": "/saladGarden/static/media/Salad6.53c4c17e.jpg",
+    "static/media/Salad8.db6dade2.jpg": "/saladGarden/static/media/Salad8.db6dade2.jpg",
     "static/media/bangalore.a4e6d5e5.jpg": "/saladGarden/static/media/bangalore.a4e6d5e5.jpg",
     "static/media/customer2.9fdd7ef6.jpg": "/saladGarden/static/media/customer2.9fdd7ef6.jpg",
     "static/media/delhi.3d876758.jpg": "/saladGarden/static/media/delhi.3d876758.jpg",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.11194084.js",
     "static/css/2.a08119d7.chunk.css",
     "static/js/2.15cba140.chunk.js",
-    "static/css/main.76b8871a.chunk.css",
-    "static/js/main.270fc0a4.chunk.js"
+    "static/css/main.8a8dea73.chunk.css",
+    "static/js/main.8da8e98b.chunk.js"
   ]
 }
