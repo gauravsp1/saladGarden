@@ -65,6 +65,11 @@
     top: 30%;
     right: 0;
 }
+@media screen  and (max-width: 380px) {
+    .tagLine{ 
+        top: 15%;
+    }
+}
 section{
     margin: 20px 0;
 }
@@ -76,7 +81,7 @@ section{
     display: flex;
     flex-direction: column;
     text-align: center;
-    align-content: center;
+    align-items: center;
     flex-wrap: wrap;
 }
 
